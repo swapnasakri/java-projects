@@ -1,24 +1,24 @@
 //parameterized constructor
-class EMP{
+class Emp{
 	int rollno;
 	String name;
 
-	EMP(int i,String n)
+	Emp(int i,String n)
 	{
 	rollno=i;
 	name=n;
 	}
 
 	void display() {
-	System.out.println(id+" "+name);
+	System.out.println(rollno+" "+name);
 	}
 }
 
 public class ParamConstr {
 public static void main(String[] args) {
 
-	Std std1=new Std(2,"Alex");
-	Std std2=new Std(10,"Annie");
+	Emp std1=new Emp(2,"Alex");
+	Emp std2=new Emp(10,"Annie");
 	std1.display();
 	std2.display();
 		}

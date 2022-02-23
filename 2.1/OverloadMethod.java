@@ -13,7 +13,7 @@ public void area(int b,int h)
     public static void main(String args[])
    {
 
-overloadMethod ob=new overloadMethod();
+OverloadMethod ob=new OverloadMethod();
        ob.area(10,12);
        ob.area(5);  
    }

@@ -1,6 +1,6 @@
 package pack1;
 
-public class pubaccessspecifiers {
+public class Pubaccessspecifiers {
 
 	public void display() 
     { 

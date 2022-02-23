@@ -7,7 +7,7 @@ class priaccessspecifier
     } 
 } 
 
-public class accessSpecifiers2 {
+public class Accessspecifier2 {
 
 	public static void main(String[] args) {
 		//private

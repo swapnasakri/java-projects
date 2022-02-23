@@ -2,10 +2,10 @@ package pack2;
 
 import pack1.*;
 
-public class accessSpecifiers3 extends proaccessspecifiers {
+public class AccessSpecifiers3 extends Proaccessspecifiers {
 
 	public static void main(String[] args) {
-		accessSpecifiers3 obj = new accessSpecifiers3 ();   
+		AccessSpecifiers3 obj = new AccessSpecifiers3 ();   
 	       obj.display();  
 	}
 

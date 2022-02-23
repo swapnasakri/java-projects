@@ -9,7 +9,7 @@ int operation(int val) {
 }
 
 public static void main(String args[]) {
-	callMethod d = new callMethod();
+	CallMethod d = new CallMethod();
 	System.out.println("Before operation value of data is "+d.val);
 	d.operation(100);
 	System.out.println("After operation value of data is "+d.val);

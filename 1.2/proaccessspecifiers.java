@@ -1,6 +1,6 @@
 package pack1;
 
-public class proaccessspecifiers {
+public class Proaccessspecifiers {
 
 	protected void display() 
     { 
